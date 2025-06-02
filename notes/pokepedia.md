@@ -2,24 +2,9 @@
 id: rqtytbwfc69mac77p8wfgz3
 title: Pokepedia
 desc: ''
-updated: 1748888811039
+updated: 1748890220681
 created: 1748887778706
 ---
-
-- [Section 1.0: trainers101](trainers101.md)
-- [2.0: Regions](#20-regions)
-  - [2.1: Major Regions](#21-major-regions)
-  - [The Wider World](#the-wider-world)
-- [Section 3.0 Law Enforcement](#section-30-law-enforcement)
-- [Section 4.0: Pokémon Association (League)](#section-40-pokémon-association-league)
-- [Section 5.0: Pokémon Activities Committee (Coordination, etc.)](#section-50-pokémon-activities-committee-coordination-etc)
-- [Section 6.0: PokéCorp](#section-60-pokécorp)
-  - [Legal](#legal)
-  - [Illegal](#illegal)
-  - [Reformed](#reformed)
-- [Section 7.0: Pokémon Academia](#section-70-pokémon-academia)
-  - [Pokémon Professors](#pokémon-professors)
-  - [Academies \& Universities](#academies--universities)
 
 ## Section 1.0: [[trainers101]]
 
