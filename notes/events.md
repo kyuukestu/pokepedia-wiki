@@ -2,10 +2,11 @@
 id: y882kap0ly19u0h0hloumoq
 title: Events
 desc: ''
-updated: 1748920559707
+updated: 1748920962496
 created: 1748920556949
 ---
 
+<div style="margin: auto;">
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  1  |  2  |  3  |  4  |  5  |  6  |  7  |
@@ -13,3 +14,4 @@ created: 1748920556949
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
+</div>
