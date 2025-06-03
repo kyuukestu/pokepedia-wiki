@@ -6,6 +6,6 @@
 4. [Section: Trainer Supervisory Boards](./notes/trainer-supervisory-boards.md)
 5. [Section: Poké-Corp](./notes/poke-corp.md)
 6. [Section: Poké-Academia](./notes/pokemon-academia.md)
-7. Section: Poké-Tech
-8. Section: Events
+7. [Section: Poké-Tech](./notes/poketech.md)
+8. [Section: Events](./notes/events.md)
 9. Section: Characters
