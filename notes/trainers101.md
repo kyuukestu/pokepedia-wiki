@@ -2,7 +2,7 @@
 id: 2xiosc46k5vsm7rou859s2y
 title: Trainers101
 desc: ''
-updated: 1748912587362
+updated: 1748913163102
 created: 1748887999788
 ---
 
@@ -14,6 +14,10 @@ Trainer Cards are required to obtain access to the full suite of League-related 
 
 Despite their name, trainer cards come in many forms:
 
-- ![Trainer Passport](https://bulbapedia.bulbagarden.net/wiki/File:Trainer_Passport_SM.png)
-- ![League Card](https://archives.bulbagarden.net/media/upload/thumb/d/db/Player_League_Card.png/667px-Player_League_Card.png)
-- ![Profile App](https://archives.bulbagarden.net/media/upload/thumb/1/14/Trainer_Profile_SV.png/667px-Trainer_Profile_SV.png)
+## Trainer Passport
+
+![Trainer Passport](https://archives.bulbagarden.net/media/upload/thumb/9/92/Trainer_Passport_SM.png/375px-Trainer_Passport_SM.png)
+
+## ![League Card](https://archives.bulbagarden.net/media/upload/thumb/d/db/Player_League_Card.png/667px-Player_League_Card.png)
+
+## ![Profile App](https://archives.bulbagarden.net/media/upload/thumb/1/14/Trainer_Profile_SV.png/667px-Trainer_Profile_SV.png)
