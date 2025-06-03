@@ -2,7 +2,7 @@
 id: 2xiosc46k5vsm7rou859s2y
 title: Trainers101
 desc: ''
-updated: 1748920164876
+updated: 1748925864896
 created: 1748887999788
 ---
 
@@ -23,6 +23,9 @@ In spite of their common referral as 'Trainer Cards', the more accurate term wou
 Common Types of Trainer ID and their uniques features are explored below:
 
 ### [trainer-ids](./trainers101.trainer-ids.md)
+
+> [!CAUTION]
+> Trainers who are found to be involved with illegal or criminal activity may find themselves at risk of their trainer ids being revoked!
 
 ## The Carry Limit
 
@@ -49,7 +52,8 @@ Unfortunately, not every trainer can be trusted not to barrel down the streets a
 - [Sea](trainers101.aquatic-permit.md)
 - [Sky](trainers101.aviation-permit.md)
 
-**Note:** Largely flavor text and not strictly enforced in RP, trainers who ride their pokémon are assumed to do so safely unless stated otherwise.
+> [!NOTE]
+> Largely flavor text and not strictly enforced in RP, trainers who ride their pokémon are assumed to do so safely unless stated otherwise.
 
 ## Bags
 
