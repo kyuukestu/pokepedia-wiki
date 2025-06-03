@@ -28,9 +28,8 @@ Our role play introduces new regions, factions, lore, regional variants, and man
 2. Follow the links wherever your curiosity takes you!
 3. Have Fun!
 
-## ⚠️ Important Notes
-
-- This Wikia is **constantly evolving**, just like our world. Check back often for updates.
-- If you're unsure about anything, visit the [FAQ](/FAQ.md) or leave a comment.
+> [!Important]
+> This Wikia is **constantly evolving**, just like our world. Check back often for updates.
+> If you're unsure about anything, visit the [FAQ](/FAQ.md) or leave a comment.
 
 ---

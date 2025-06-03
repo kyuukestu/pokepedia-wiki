@@ -2,7 +2,7 @@
 id: 2xiosc46k5vsm7rou859s2y
 title: Trainers101
 desc: ''
-updated: 1748925864896
+updated: 1748925979433
 created: 1748887999788
 ---
 
@@ -22,7 +22,7 @@ In spite of their common referral as 'Trainer Cards', the more accurate term wou
 
 Common Types of Trainer ID and their uniques features are explored below:
 
-### [trainer-ids](./trainers101.trainer-ids.md)
+### [Trainer IDs](./trainers101.trainer-ids.md)
 
 > [!CAUTION]
 > Trainers who are found to be involved with illegal or criminal activity may find themselves at risk of their trainer ids being revoked!
