@@ -2,12 +2,13 @@
 id: c4igt38berm7jbsz1mr7kit
 title: Pokepedia Toc
 desc: ''
-updated: 1749077663315
+updated: 1749079564070
 created: 1749063125466
 ---
 
 ## Table of Contents
 
+0. [Section: To Do List](./todo.md)
 1. [Section: Trainers-101](./trainers101.md)
 2. [Section: Regions](./regions.md)
 3. [Section: Law Enforcement](./law-enforcement.md)
@@ -17,3 +18,4 @@ created: 1749063125466
 7. [Section: Poké-Tech](./poketech.md)
 8. [Section: Events](./events.md)
 9. [Section: Characters](./characters.md)
+10. [Section: Miscellaneous](./misc.md)
