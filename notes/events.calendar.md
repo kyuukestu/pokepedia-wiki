@@ -2,7 +2,7 @@
 id: ils4v32kfankshjls0hkxav
 title: Calendar
 desc: ''
-updated: 1749077861520
+updated: 1749078983338
 created: 1749063372439
 ---
 
@@ -20,8 +20,8 @@ created: 1749063372439
 | 21  |            22             | 23  | 24  |  25   |  26   | 27  |
 | 28  |            29             | 30  |     |       |       |     |
 
-[A1-BR]: events.list.balloon-race 'Balloon Race'
-[A1-SS]: events.list.sanguine-swarm 'Sanguine Swarms'
+[A1-BR]: events.list.balloon-race.md 'Balloon Race'
+[A1-SS]: events.list.sanguine-swarm.md 'Sanguine Swarms'
 
 ### September
 
