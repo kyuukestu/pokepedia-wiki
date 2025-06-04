@@ -24,7 +24,7 @@ Our role play introduces new regions, factions, lore, regional variants, and man
 
 ## Getting Started
 
-1. Skim over our [Table of Contents](/pokepedia-toc.md) to wet your curiosity on various headings and what information is available.
+1. Skim over our [Table of Contents](./notes/pokepedia-toc.md) to wet your curiosity on various headings and what information is available.
 2. Follow the links wherever your curiosity takes you!
 3. Have Fun!
 

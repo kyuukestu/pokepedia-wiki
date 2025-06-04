@@ -2,9 +2,16 @@
 id: 2xiosc46k5vsm7rou859s2y
 title: Trainers101
 desc: ''
-updated: 1748925979433
+updated: 1749063058840
 created: 1748887999788
 ---
+
+- [Who is a Trainer?](#who-is-a-trainer)
+  - [Trainer IDs](#trainer-ids)
+- [The Carry Limit](#the-carry-limit)
+- [Pokémon Permits](#pokémon-permits)
+- [Bags](#bags)
+- [Pokemon Storage System](#pokemon-storage-system)
 
 ## Who is a Trainer?
 
