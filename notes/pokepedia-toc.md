@@ -2,7 +2,7 @@
 id: c4igt38berm7jbsz1mr7kit
 title: Pokepedia Toc
 desc: ''
-updated: 1749076012369
+updated: 1749077663315
 created: 1749063125466
 ---
 
@@ -15,5 +15,5 @@ created: 1749063125466
 5. [Section: Poké-Corp](./poke-corp.md)
 6. [Section: Poké-Academia](./pokemon-academia.md)
 7. [Section: Poké-Tech](./poketech.md)
-8. [Section: Events](./event/index.md)
+8. [Section: Events](./events.md)
 9. [Section: Characters](./characters.md)
