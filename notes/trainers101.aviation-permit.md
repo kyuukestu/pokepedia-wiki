@@ -6,8 +6,8 @@ updated: 1748917058524
 created: 1748917058524
 ---
 
-_[HTML]: Hyper Text Markup Language
-_[W3C]: World Wide Web Consortium
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
 
 The HTML, WCS
 
