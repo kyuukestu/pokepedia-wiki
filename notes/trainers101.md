@@ -2,16 +2,24 @@
 id: 2xiosc46k5vsm7rou859s2y
 title: Trainers101
 desc: ''
-updated: 1749063058840
+updated: 1749149459018
 created: 1748887999788
 ---
 
+- [Index](#index)
 - [Who is a Trainer?](#who-is-a-trainer)
   - [Trainer IDs](#trainer-ids)
 - [The Carry Limit](#the-carry-limit)
 - [Pokémon Permits](#pokémon-permits)
 - [Bags](#bags)
 - [Pokemon Storage System](#pokemon-storage-system)
+
+## Index
+
+- [[Aquatic Permit|trainers101.aquatic-permit]]
+- [[Aviation Permit|trainers101.aviation-permit]]
+- [[Terrestrial Permit|trainers101.terrestrial-permit]]
+- [[Trainer Ids|trainers101.trainer-ids]]
 
 ## Who is a Trainer?
 

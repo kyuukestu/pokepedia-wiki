@@ -2,11 +2,11 @@
 id: rqtytbwfc69mac77p8wfgz3
 title: Pokepedia
 desc: ''
-updated: 1748890220681
+updated: 1749149394590
 created: 1748887778706
 ---
 
-## Section 1.0: [[trainers101]]
+## Section 1.0: [trainers101](./trainers101.md)
 
 ### Overview
 
