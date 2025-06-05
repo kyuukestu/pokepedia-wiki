@@ -6,6 +6,11 @@ updated: 1748917058524
 created: 1748917058524
 ---
 
+_[HTML]: Hyper Text Markup Language
+_[W3C]: World Wide Web Consortium
+
+The HTML, WCS
+
 **_Basics of Mounted Air Transportation in Hoenn_**
 
 **Article 1: Definitions**
@@ -49,8 +54,6 @@ Based on your foundational structure for _Mounted Air Transportation in Hoenn_, 
 
 1.1 This document outlines the procedures, requirements, and expectations for individuals seeking to obtain a **Aviation Permit (AP)** under the authority of the **Pokémon League Aviation Authority (PLAA)**.
 1.2 These guidelines apply to all **Private Citizens** as defined in Article 1.2 of the _Basics of Mounted Air Transportation in Hoenn_ and to other categories of applicants seeking certification for non-commercial, civil aviation using Pokémon.
-
-\*[PLAA]: Pokémon League Aviation Authority
 
 ## **Section 2: License Classification**
 
