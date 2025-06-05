@@ -2,18 +2,31 @@
 id: er7wamym486wnk6bktjvlmp
 title: Aviation Permit
 desc: ''
-updated: 1749146361438
+updated: 1749146557789
 created: 1748917058524
 ---
 
-_[HTML]: Hyper Text Markup Language
-_[W3C]: World Wide Web Consortium
+- [**Definitions**](#definitions)
+- [**Guidelines for the Acquisition of Flying Mount Licensing Permits (FMOL)**](#guidelines-for-the-acquisition-of-flying-mount-licensing-permits-fmol)
+  - [**Section 1: Purpose and Scope**](#section-1-purpose-and-scope)
+  - [**Section 2: License Classification**](#section-2-license-classification)
+  - [**Section 3: Eligibility Criteria**](#section-3-eligibility-criteria)
+    - [**Age Requirements**](#age-requirements)
+    - [**Prerequisites**](#prerequisites)
+    - [**Health Clearance**](#health-clearance)
+  - [**Section 4: Licensing Process**](#section-4-licensing-process)
+  - [**Section 5: License Validity, Renewal, and Revocation**](#section-5-license-validity-renewal-and-revocation)
+    - [**Validity Period**](#validity-period)
+    - [**Renewal Process**](#renewal-process)
+    - [**Suspension or Revocation**](#suspension-or-revocation)
+  - [**Section 6: Guidelines for Operations**](#section-6-guidelines-for-operations)
+  - [**Section 7: Special Provisions**](#section-7-special-provisions)
+    - [**Juvenile Operators**](#juvenile-operators)
+    - [**Trainers or Pokémon with Special Needs**](#trainers-or-pokémon-with-special-needs)
+  - [**SectION 8: Prohibited Activities**](#section-8-prohibited-activities)
 
-The HTML, WCS
+## **Definitions**
 
-**_Basics of Mounted Air Transportation in Hoenn_**
-
-**Article 1: Definitions**
 "Flying Mount" refers to any living creature, pokemon or otherwise, capable of carrying human passengers or cargo through the air.
 "Private Citizen" refers to any individual not operating a flying mount as part of a commercial, government, or military operation.
 "Flight Zone" refers to the airspace designated for the use of flying mounts, which is separate from airspace designated for conventional aircraft.
