@@ -2,14 +2,9 @@
 id: er7wamym486wnk6bktjvlmp
 title: Aviation Permit
 desc: ''
-updated: 1748917058524
+updated: 1749144662823
 created: 1748917058524
 ---
-
-_[HTML]: Hyper Text Markup Language
-_[W3C]: World Wide Web Consortium
-
-The HTML, WCS
 
 **_Basics of Mounted Air Transportation in Hoenn_**
 
@@ -50,75 +45,76 @@ Based on your foundational structure for _Mounted Air Transportation in Hoenn_, 
 
 ---
 
-## **Section 1: Purpose and Scope**
+### **Section 1: Purpose and Scope**
 
-1.1 This document outlines the procedures, requirements, and expectations for individuals seeking to obtain a **Aviation Permit (AP)** under the authority of the **Pokémon League Aviation Authority (PLAA)**.
-1.2 These guidelines apply to all **Private Citizens** as defined in Article 1.2 of the _Basics of Mounted Air Transportation in Hoenn_ and to other categories of applicants seeking certification for non-commercial, civil aviation using Pokémon.
+This document outlines the procedures, requirements, and expectations for individuals seeking to obtain a **Aviation Permit (AP)** under the authority of the **Pokémon League Aviation Authority (PLAA)**.
 
-## **Section 2: License Classification**
+These guidelines apply to all **Private Citizens** who hold a **Trainer ID** and to other categories of applicants seeking certification for non-commercial, civil aviation using Pokémon.
 
-2.1 FMOLs are issued in three tiers, depending on flight complexity and mount capabilities:
+---
 
-- **Class C (Basic Local Permit)**:
-  For low-altitude, daylight-only flights within designated city limits or routes. Ideal for novice flyers.
+### **Section 2: License Classification**
 
+FMOLs are issued in three tiers, depending on flight complexity and mount capabilities:
+
+- **Class C (Basic Permit)**:
+  Standard Permit. Certifies possess as capable of both day and night-time flights at low-mid altitudes. Standard Issue utilized by Trainers.
 - **Class B (Intermediate Regional Permit)**:
-  Allows intercity travel within a region. Includes basic night flight training and emergency protocol certification.
+  Stamina Tested; Inter-Regional Fights; Consideration for long periods over the ocean (upwards of 12 hours continuous); avoidance of dangerous currents of forming storms
+- **Class A (Advanced Continental Permit)**
+  Extreme Altitude and Condition Training; Harsh Weather Search & Rescue.
 
-- **Class A (Advanced Continental Permit)**:
-  Grants unrestricted flight rights across regional and interregional zones, including international travel (subject to local laws). Requires advanced navigation and mount-handling certification.
+Special Endorsements (e.g., _Cargo Transport_, _Weather Hazard Operation_, or _Aerial Rescue_) may be added after additional specialized training. Further details available below:
 
-  2.2 Special endorsements (e.g., _Cargo Transport_, _Weather Hazard Operation_, or _Aerial Rescue_) may be added after additional specialized training.
-
----
-
-## **Section 3: Eligibility Criteria**
-
-3.1 **Age Requirements**
-
-- Minimum age of **16** for Class C license
-- **18** for Class B and Class A
-
-  3.2 **Prerequisites**
-
-- Valid trainer ID registered with the Pokémon League
-- Proof of bond/trust with the flying Pokémon to be certified
-- No outstanding flight-related infractions or Pokémon abuse charges
-
-  3.3 **Health Clearance**
-  Applicants must undergo a physical and psychological evaluation to ensure capability for aerial operations. Pokémon companions must pass a health and temperament assessment (see Article 4 of the _Basics_).
+[AV License Classification](trainers101.aviation-permit.classifications.md)
 
 ---
 
-## **Section 4: Licensing Process**
+### **Section 3: Eligibility Criteria**
 
-4.1 **Step 1: Application Submission**
+#### **Age Requirements**
+
+- Minimum age of **10** (Ten) for Class C License
+- Minimum age of **12** (Twelve) for Class A License
+
+#### **Prerequisites**
+
+- [ ] Valid Trainer ID
+- [ ] Flight Capable & Certified Pokémon
+- [ ] No outstanding flight-related infractions or Pokémon abuse charges
+
+#### **Health Clearance**
+
+Applicants must undergo a physical and psychological evaluation to ensure capability for aerial operations. Pokémon companions must pass a health and temperament assessment.
+
+### **Section 4: Licensing Process**
+
+**Step 1: Application Submission**
 Applicants must submit an FMOL application through the HPLAA portal or regional Pokémon Centers authorized to process aviation forms.
 
-4.2 **Step 2: Ground School (Theory Component)**
-Applicants must complete a certified instructional course covering:
+**Step 2: Ground School (Theory Component)**
+Applicants must complete certified instructional courses covering:
 
-- Aerodynamics of mounted flight
 - Airspace laws and Flight Zone navigation
 - Safety protocols and emergency handling
 - Pokémon care and communication during flight
 - Radio operation and IFF system training
 
-  4.3 **Step 3: Practical Flight Training**
-  Trainees must log supervised flight hours with a certified instructor:
+**Step 3: Practical Flight Training**
+Trainees must log supervised flight hours with a certified instructor:
 
 - **Class C**: Minimum of 10 hours
 - **Class B**: Minimum of 25 hours, including night flying
 - **Class A**: Minimum of 50 hours, including solo long-distance navigation and inclement weather drills
 
-  4.4 **Step 4: Examinations**
-  Applicants must pass:
+**Step 4: Examinations**
+Applicants must pass:
 
 - **Written Examination**: 80% passing score on air law, flight theory, and safety
 - **Practical Flight Exam**: Assessed by an HPLAA Flight Examiner
 
-  4.5 **Step 5: Registration and Certification**
-  Upon passing all requirements:
+**Step 5: Registration and Certification**
+Upon passing all requirements:
 
 - A digital FMOL is issued and linked to the applicant's Trainer ID
 - The certified flying Pokémon receives an HPLAA-issued registration tag and unique transponder ID
@@ -126,22 +122,24 @@ Applicants must complete a certified instructional course covering:
 
 ---
 
-## **Section 5: License Validity, Renewal, and Revocation**
+### **Section 5: License Validity, Renewal, and Revocation**
 
-5.1 **Validity Period**
+#### **Validity Period**
 
-- All FMOLs are valid for **4 years**
-- Registered Pokémon must undergo **annual health evaluations**
+- FMOLs are valid for **4 years**
+- Registered Pokémon must undergo **biennial (every 2 years) health evaluations**
 
-  5.2 **Renewal Process**
-  License holders must:
+#### **Renewal Process**
+
+License holders must:
 
 - Complete a brief refresher course on updated flight laws and safety standards
 - Submit updated medical and Pokémon health clearance forms
 - Pass a simplified flight check if over 2 years since last logged flight
 
-  5.3 **Suspension or Revocation**
-  Licenses may be suspended or revoked for:
+#### **Suspension or Revocation**
+
+Licenses may be suspended or revoked for:
 
 - Violation of airspace restrictions or safety laws
 - Causing harm or neglect to the flying mount
@@ -150,17 +148,12 @@ Applicants must complete a certified instructional course covering:
 
 ---
 
-## **Section 6: Special Provisions**
+### **Section 6: Special Provisions**
 
-6.1 **Juvenile Operators**
-Trainers aged 14–15 may apply for a **Limited Learner Permit** with restrictions on altitude, distance, and supervision.
+#### **Juvenile Operators**
 
-6.2 **Foreign Trainers**
-Must present valid equivalent licenses from their home region and pass a local flight theory and air law assessment.
+Children aged 8-10 may apply for a **Limited Learner Permit** with restrictions on altitude, distance, and supervision.
 
-6.3 **Mount Variants**
-Licenses are tied to specific Pokémon classes (e.g., _Standard Winged_, _Levitation-based_, _Hybrid_) and may require additional evaluation when registering a new species.
+#### **Trainers or Pokémon with Special Needs**
 
----
-
-Let me know if you'd like a visual licensing card mock-up, a trainer test example, or an appendix for mount classifications.
+Provisions allowed for trainers or pokemon who have physical or sensory impairments, injuries, require specialized equipment, or otherwise require non-standard considerations for flight.
