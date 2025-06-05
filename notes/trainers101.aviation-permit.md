@@ -2,9 +2,14 @@
 id: er7wamym486wnk6bktjvlmp
 title: Aviation Permit
 desc: ''
-updated: 1749144662823
+updated: 1749145998213
 created: 1748917058524
 ---
+
+_[HTML]: Hyper Text Markup Language
+_[W3C]: World Wide Web Consortium
+
+The HTML, WCS
 
 **_Basics of Mounted Air Transportation in Hoenn_**
 
