@@ -2,7 +2,7 @@
 id: er7wamym486wnk6bktjvlmp
 title: Aviation Permit
 desc: ''
-updated: 1749145998213
+updated: 1749146361438
 created: 1748917058524
 ---
 
@@ -14,37 +14,9 @@ The HTML, WCS
 **_Basics of Mounted Air Transportation in Hoenn_**
 
 **Article 1: Definitions**
-1.1. "Flying Mount" refers to any living creature, pokemon or otherwise, capable of carrying human passengers or cargo through the air.
-1.2. "Private Citizen" refers to any individual not operating a flying mount as part of a commercial, government, or military operation.
-1.3. "Flight Zone" refers to the airspace designated for the use of flying mounts, which is separate from airspace designated for conventional aircraft.
-
-**Article 2: Licensing and Registration**
-2.1. All private citizens operating a flying mount must possess a valid Flying Mount Operator's License (henceforth known as FMOL).
-2.2. The FMOL may be obtained after passing a written and practical examination issued by the Hoenn Pokemon League Air Authority (Henceforth known as HPLAA), which includes both theory and actual flight experience. Click here for more info.
-2.3. Each flying mount must be registered with the HPLAA, and a unique identification code must be broadcast from the mount at all times during flight.
-
-**Article 3: Flight Operation and Safety**
-3.1. Flying mounts may only be operated within designated flight zones.
-3.2. Operators must maintain a minimum safe distance of 500 feet from buildings, structures, and other flying mounts outside of the Operator's formation, unless for takeoff or landing.
-3.3. Flying mounts must be equipped with proper lighting and signaling equipment for night flights.
-3.4. Operators must be equipped with proper radio and IFF transceiver equipment.
-3.5. Operators must follow all traffic control instructions issued by Air Traffic Control (henceforth known as ATC).
-3.6. Operators must not fly under the influence of alcohol or any mind-altering substances.
-3.7. Operators are required to carry a first-aid kit, redundant communication devices, and emergency signaling equipment during flights.
-
-**Article 4: Maintenance and Health of Flying Mounts**
-4.1. Flying mounts must undergo regular health checkups to ensure safe flight capability.
-4.2. Operators must maintain a record of their flying mount's health and maintenance history, which must be presented upon request by relevant Pokemon League and civil government officers.
-4.3. Operators must ensure that their flying mounts are well-rested and well-fed prior to flights.
-
-**Article 5: Prohibited Activities**
-5.1. Flying mounts may not be used for illegal activities or to facilitate the commission of crimes.
-5.2. Private citizens may not use flying mounts to carry hazardous materials or engage in mounted aerial combat without express Pokemon League permission.
-5.3. Operators may not fly in restricted airspace or near sensitive infrastructure, such as military installations or power plants, without proper authorization.
-
-Based on your foundational structure for _Mounted Air Transportation in Hoenn_, here's an expanded **Guideline and Structure for the Acquisition of Licensing Permits**. This document formalizes the training, testing, issuance, and renewal process for individuals seeking legal operation of flying Pokémon for personal or official travel:
-
----
+"Flying Mount" refers to any living creature, pokemon or otherwise, capable of carrying human passengers or cargo through the air.
+"Private Citizen" refers to any individual not operating a flying mount as part of a commercial, government, or military operation.
+"Flight Zone" refers to the airspace designated for the use of flying mounts, which is separate from airspace designated for conventional aircraft.
 
 ## **Guidelines for the Acquisition of Flying Mount Licensing Permits (FMOL)**
 
@@ -153,7 +125,18 @@ Licenses may be suspended or revoked for:
 
 ---
 
-### **Section 6: Special Provisions**
+### **Section 6: Guidelines for Operations**
+
+- Flying mounts may only be operated within designated flight zones.
+- Operators must maintain a minimum safe distance of 500 feet from buildings, structures, and other flying mounts outside of the Operator's formation, unless for takeoff or landing.
+- Flying mounts must be equipped with proper lighting and signaling equipment for night flights.
+- Operators must be equipped with proper radio and IFF transceiver equipment.
+- Operators must follow all traffic control instructions issued by Air Traffic Control (henceforth known as ATC).
+- Operators must not fly under the influence of alcohol or any mind-altering substances.
+- Operators are required to carry a first-aid kit, redundant communication devices, and emergency signaling equipment during flights.
+- Each flying mount must be registered has and a unique identification code that be broadcast from the mount at all times during flight.
+
+### **Section 7: Special Provisions**
 
 #### **Juvenile Operators**
 
@@ -162,3 +145,9 @@ Children aged 8-10 may apply for a **Limited Learner Permit** with restrictions 
 #### **Trainers or Pokémon with Special Needs**
 
 Provisions allowed for trainers or pokemon who have physical or sensory impairments, injuries, require specialized equipment, or otherwise require non-standard considerations for flight.
+
+### **SectION 8: Prohibited Activities**
+
+- Flying mounts may not be used for illegal activities or to facilitate the commission of crimes.
+- Private citizens may not use flying mounts to carry hazardous materials or engage in mounted aerial combat without express Pokemon League permission.
+- Operators may not fly in restricted airspace or near sensitive infrastructure, such as military installations or power plants, without proper authorization.
